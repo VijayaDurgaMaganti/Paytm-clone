@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+    padding: 1.8%;
+}
+
+.navbar a {
+    text-decoration: none;
+    font-size: 17px;
+    color: black;
+    margin-left: 4%;
+    vertical-align: middle;
+    font-weight: bold;
+}
+
+.logo {
+    margin: 0;
+}
+
+#signin {
+    background-color: #00baf2;
+    color: white;
+    border-radius: 25px;
+    padding: 1%;
+    margin-left: 3%;
+    border: none;
+    /* width: 100%; */
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#signin:hover {
+    background-color: #2b54a6;
+    cursor: pointer;
+}
+
+.link:hover {
+    background-color: gray;
+    padding: 0.6%;
+    border-radius: 20px;
+}
