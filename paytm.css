@@ -337,3 +337,29 @@
 .sec21 h1 {
     opacity: 100%;
 }
+
+/* section 9 */
+
+
+.sec23 {
+    display: flex;
+
+    padding: 4% 10%;
+    background-color: rgba(239, 239, 239, 0.6);
+
+}
+
+.sec23 h1 {
+    width: 20%;
+}
+
+#sec23div1 {
+    margin-left: 40%;
+    width: 20%;
+}
+
+#sec23div1 a {
+    margin-right: 16%;
+}
+
+/* end section 9 */
